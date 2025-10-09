@@ -42,10 +42,3 @@ Each module contains:
 
 You will need **Python 3.8+** and **Git** installed to get started.
 
-### 1. Cloning the Repository
-
-Start by cloning the repository to your local machine:
-
-```bash
-git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Repository-Name].git
-cd [Repository-Name]
